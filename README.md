@@ -1,4 +1,4 @@
-# what?
+# What?
 
 这是个脚手架，使用 webpack 打包构建 Vue 项目的脚手架
 
