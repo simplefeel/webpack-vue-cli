@@ -23,3 +23,6 @@ webpack 打包配置学习，虽然有 vue-cli 用于日常项目开发，但了
 - 支持 cli，本地通过命令方式生成初始项目
 
 - 支持选择 react/vue 项目的初始化开发环境
+
+# Relation
+[极简的webpack打包项目](https://github.com/simplefeel/webpack-project-cli)，用来打包原生js插件必备。
